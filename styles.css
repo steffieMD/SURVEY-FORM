@@ -4,7 +4,7 @@ body {
   background-image: url(https://eastgateacademy.ca/wp-content/uploads/2021/12/Learning.jpg);
   background-repeat: no-repeat;
   background-color: burlywood;
-  background-size: 150%;
+  background-size: cover;
   margin: 0;
 }
 h1 {
